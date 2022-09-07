@@ -1,0 +1,4 @@
+[debug] [scalaproject-test] Classpath dependencies List()
+[debug] [scalaproject-test] Dependencies from configurations List(scalaproject)
+[debug] Bloop wrote the configuration of project 'scalaproject-test' to '/home/paul/Documents/scalaproject/.bloop/scalaproject-test.json'
+[success] Generated .bloop/scalaproject-test.json
